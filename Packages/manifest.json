@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.3",
+    "com.unity.xr.management": "4.5.3",
+    "com.unity.xr.openxr": "1.14.3",
+    "com.unity.xr.meta-openxr": "2.4.0"
+  }
+}

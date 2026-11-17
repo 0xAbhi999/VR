@@ -1,0 +1,31 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and local machine files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Builds and generated packages
+/Build/
+/Builds/
+*.apk
+*.aab
+*.unitypackage
+
+# macOS metadata
+.DS_Store
